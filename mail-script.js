@@ -1,3 +1,5 @@
+
+
 $(function(){
     // not enough
     // var pattern = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
@@ -5,8 +7,8 @@ $(function(){
     // var pattern = /^[\w-]+(\.[\w-]+)*@([a-z0-9-]+(\.[a-z0-9-]+)*?\.[a-z]{2,6}|(\d{1,3}\.){3}\d{1,3})(:\d{4})?$/i;
     // best I have found so far
     var pattern = /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/;
-    var aTextbox;
-    var aMail;
+    var aTextbox = new Array();
+    var aMail = new Array();
     var $mailsInput = $("#mailsInput");
 
     $mailsInput.tagsInput({
