@@ -2,7 +2,6 @@
 ### Kullanicidan Mail Listesi Alma Ekrani
 =============
 ![alt text](https://raw.github.com/homer/mailer-form/master/sshots/sshot1.png "Ekran goruntusu")
-https://raw.github.com/homer/mailer-form/master/sshots/sshot1.png
 
 Projede sayfada bulunan bir butona bastigimizda kullanicinin onune bir form cikiyor. Kullanici cikan textinput fielde emailler giriyor. Emailler virgulle ayirladigi zaman kendi baslarina stillendiriliyor ve kullanici daha sonra isterse bunlari teker teker silebiliyor.
 
