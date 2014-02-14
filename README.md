@@ -1,11 +1,12 @@
 # Mailer
 ### Kullanicidan Mail Listesi Alma Ekrani
 =============
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Ekran goruntusu")
+![alt text](https://raw.github.com/homer/mailer-form/master/sshots/sshot1.png "Ekran goruntusu")
+https://raw.github.com/homer/mailer-form/master/sshots/sshot1.png
 
 Projede sayfada bulunan bir butona bastigimizda kullanicinin onune bir form cikiyor. Kullanici cikan textinput fielde emailler giriyor. Emailler virgulle ayirladigi zaman kendi baslarina stillendiriliyor ve kullanici daha sonra isterse bunlari teker teker silebiliyor.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Console log uzerinden degerler")
+![alt text](https://raw.github.com/homer/mailer-form/master/sshots/sshot1.png "Console log uzerinden degerler")
 
 Ayrica form gonderilmesi icin submit butonuna basildiginda __regex__ kullanilarak girilen degerler arasindan sadece dogru emailler input fieldin valuesuna dinamik olarak ekleniyor.
 
@@ -18,5 +19,5 @@ Email validation icin kullanilabilecek bazi stiller
 
 
 ### Referanslar
-[jQuery TagsInput Plugin](http://xoxco.com/projects/code/tagsinput/)
-[Regex Email Validation](http://www.regular-expressions.info/email.html)
+- [jQuery TagsInput Plugin](http://xoxco.com/projects/code/tagsinput/)
+- [Regex Email Validation](http://www.regular-expressions.info/email.html)
