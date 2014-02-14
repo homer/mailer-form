@@ -5,7 +5,7 @@
 
 Projede sayfada bulunan bir butona bastigimizda kullanicinin onune bir form cikiyor. Kullanici cikan textinput fielde emailler giriyor. Emailler virgulle ayirladigi zaman kendi baslarina stillendiriliyor ve kullanici daha sonra isterse bunlari teker teker silebiliyor.
 
-![alt text](https://raw.github.com/homer/mailer-form/master/sshots/sshot1.png "Console log uzerinden degerler")
+![alt text](https://raw.github.com/homer/mailer-form/master/sshots/sshot2.png "Console log uzerinden degerler")
 
 Ayrica form gonderilmesi icin submit butonuna basildiginda __regex__ kullanilarak girilen degerler arasindan sadece dogru emailler input fieldin valuesuna dinamik olarak ekleniyor.
 
