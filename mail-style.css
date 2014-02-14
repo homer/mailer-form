@@ -1,0 +1,33 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: "Helvetica",sans-serif;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.mailer-canvas{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000;
+    opacity: 0.6;
+}
+.mailer-window{
+    width: 350px;
+    margin: 20% auto;
+    background-color: #e8e8e8;
+    padding:20px;
+}
+.mailer-form{
+    width: 100%;
+}
+.mailer-form input[type=text]{
+    width: 100%;
+}
+.is-hidden{
+    display: none;
+}
